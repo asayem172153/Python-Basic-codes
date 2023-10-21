@@ -1,6 +1,6 @@
 # Python-Basic-codes
 Here is some python basic codes-
-### My Projects
+### My Codes
 - [Write a program to remove duplicates from a list](https://github.com/asayem172153/Remove-duplicates/blob/main/Write%20a%20program%20to%20remove%20duplicates%20from%20a%20list.ipynb)
 - [Write a program to check if a given string is a pangram](https://github.com/asayem172153/Pangram-check/blob/main/Write%20a%20program%20to%20check%20if%20a%20given%20string%20is%20a%20pangram.ipynb)
 - [Write a program to check if a given number is prime](https://github.com/asayem172153/Prime-check/blob/8a68a404afd962cb8ff71db84e9781c405b1ddff/Write%20a%20program%20to%20check%20if%20a%20given%20number%20is%20prime.ipynb)
@@ -19,11 +19,11 @@ Here is some python basic codes-
 - [Find the factorial of a given number](https://github.com/asayem172153/Factorial-of-a-given-number/blob/72aabd6f603bcb4caddb8135d3fd28acd6047d03/Find%20the%20factorial%20of%20a%20given%20number.ipynb)
 - [Count the number of words in a sentence](https://github.com/asayem172153/Words-in-a-sentence/blob/77f0549715a51be346f6a776b06506333459d2c0/Count%20the%20number%20of%20words%20in%20a%20sentence.ipynb)
 - [Count the number of vowels in a string](https://github.com/asayem172153/vowels-in-a-string/blob/a9feba13543f16dfe87cb096efab09d75e0fcdb1/Count%20the%20number%20of%20vowels%20in%20a%20string.ipynb)
-- [Project 3]()
-- [Project 3]()
-- [Project 3]()
-- [Project 3]()
-- [Project 3]()
-- [Project 3]()
-- [Project 3]()
+- [Check if the two lists are equal](https://github.com/asayem172153/equal-list/blob/ea39dfe083cb84d5f204b17659dd952784f46fb4/Check%20if%20the%20two%20lists%20are%20equal.ipynb)
+- [Check if a given string is an anagram of another string](https://github.com/asayem172153/anagram-of-another-string/blob/6b42a44aaebb5947d9e1a3bd83dc08861058da43/Check%20if%20a%20given%20string%20is%20an%20anagram%20of%20another%20string.ipynb)
+- [Check if a given string is a palindrome](https://github.com/asayem172153/palindrome-string/blob/57e751fe371b0484572bac2d7b4abbcd58ed7e1d/Check%20if%20a%20given%20string%20is%20a%20palindrome.ipynb)
+- [Check if a given number is a perfect square](https://github.com/asayem172153/perfect-square/blob/de9be5babc11bb71f12464d2fa30ebf828ba3f98/Check%20if%20a%20given%20number%20is%20a%20perfect%20square.ipynb)
+- [Check if a given number is a palindrome](https://github.com/asayem172153/Check-if-a-given-number-is-a-palindrome/blob/dfbcad88371b41963744bec4b5220903e05db47c/Check%20if%20a%20given%20number%20is%20a%20palindrome.ipynb)
+- [Calculate the sum of digits in a number](https://github.com/asayem172153/Calculate-the-sum-of-digits-in-a-number/blob/e7ac68643f8cf5522cc9fec172cca1ebc5760de5/Calculate%20the%20sum%20of%20digits%20in%20a%20number.ipynb)
+- [Given a list of integers, find the maximum and minimum elements](https://github.com/asayem172153/Given-a-list-of-integers-find-the-maximum-and-minimum-elements/blob/3ccc2ecf63e071f28cd58e49ed219e8aca50e815/Given%20a%20list%20of%20integers%2C%20find%20the%20maximum%20and%20minimum%20elements.ipynb)
 
